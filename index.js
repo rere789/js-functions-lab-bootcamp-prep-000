@@ -1,7 +1,7 @@
 // write your code below!
 
-function happy Holidays(sting) {
-  
+function happyHolidays(sting) {
+  return string.
 }
 
 
